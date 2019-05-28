@@ -7,6 +7,7 @@ This project is licensed under the MIT License
 
 ## Built With
 Android Java - The language used
+
 Firebase - Used to store data
 
 ## Screenshots
