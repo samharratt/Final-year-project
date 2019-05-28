@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377820883331",
+    "firebase_url": "https://formularyapp.firebaseio.com",
+    "project_id": "formularyapp",
+    "storage_bucket": "formularyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377820883331:android:f4020841593dfc2e",
+        "android_client_info": {
+          "package_name": "com.example.home.optometryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377820883331-95a1omc98547c35j133mscbs65rvcqnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home.optometryapplication",
+            "certificate_hash": "1b57a6ded728e067f2710323317ff9132408ac9c"
+          }
+        },
+        {
+          "client_id": "377820883331-72b0udp5ta1mmhgrijmbekrfeqtbkf83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq73kHdQ59mWNG5bp39bXG-QGziIrSTSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377820883331-72b0udp5ta1mmhgrijmbekrfeqtbkf83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
