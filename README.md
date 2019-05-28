@@ -6,9 +6,8 @@ Final year project - Android application used for reading books and other materi
 This project is licensed under the MIT License
 
 ## Built With
-Android Java - The language used
-
-Firebase - Used to store data
+# Android Java - The language used
+# Firebase - Used to store data
 
 ## Screenshots
 
